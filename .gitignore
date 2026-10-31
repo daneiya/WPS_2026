@@ -1,0 +1,22 @@
+
+# Virtual environments
+myvenv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Django files
+*.sqlite3
+staticfiles/
+media/
+
+# IDE files
+.vscode/
+.idea/
